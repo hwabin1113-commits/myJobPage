@@ -1,0 +1,7 @@
+# 대시보드와 무관한 실습 파일·산출물은 저장소에서 제외
+*.ipynb
+.ipynb_checkpoints/
+*.zip
+__pycache__/
+.DS_Store
+standardbank_dashboard_*/
